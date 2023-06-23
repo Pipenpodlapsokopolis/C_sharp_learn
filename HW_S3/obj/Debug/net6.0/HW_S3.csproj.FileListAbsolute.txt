@@ -1,0 +1,15 @@
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.csproj.AssemblyReference.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.AssemblyInfoInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.AssemblyInfo.cs
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/bin/Debug/net6.0/HW_S3
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/bin/Debug/net6.0/HW_S3.deps.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/bin/Debug/net6.0/HW_S3.runtimeconfig.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/bin/Debug/net6.0/HW_S3.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/bin/Debug/net6.0/HW_S3.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/refint/HW_S3.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/HW_S3.genruntimeconfig.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S3/obj/Debug/net6.0/ref/HW_S3.dll
