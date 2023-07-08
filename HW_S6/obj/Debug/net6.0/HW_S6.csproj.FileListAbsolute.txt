@@ -1,0 +1,15 @@
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.csproj.AssemblyReference.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.AssemblyInfoInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.AssemblyInfo.cs
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/bin/Debug/net6.0/HW_S6
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/bin/Debug/net6.0/HW_S6.deps.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/bin/Debug/net6.0/HW_S6.runtimeconfig.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/bin/Debug/net6.0/HW_S6.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/bin/Debug/net6.0/HW_S6.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/refint/HW_S6.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/HW_S6.genruntimeconfig.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S6/obj/Debug/net6.0/ref/HW_S6.dll
