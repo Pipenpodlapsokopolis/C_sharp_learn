@@ -1,0 +1,15 @@
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.csproj.AssemblyReference.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.AssemblyInfoInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.AssemblyInfo.cs
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/bin/Debug/net6.0/HW_S9
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/bin/Debug/net6.0/HW_S9.deps.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/bin/Debug/net6.0/HW_S9.runtimeconfig.json
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/bin/Debug/net6.0/HW_S9.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/bin/Debug/net6.0/HW_S9.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/refint/HW_S9.dll
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.pdb
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/HW_S9.genruntimeconfig.cache
+/Users/admin/Desktop/gikbrrr/C#/HW_S9/obj/Debug/net6.0/ref/HW_S9.dll
